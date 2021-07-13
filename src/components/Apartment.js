@@ -7,7 +7,7 @@ function Apartment({ apartmentData, imgSrc }) {
   const externalArea = apartmentData.out_area;
   const grossArea = apartmentData.gross_area;
   const poolArea = apartmentData.pool_area;
-  const roofArea = apartmentData.roofArea;
+  const roofArea = apartmentData.roof_area;
   return (
     <li>
       <img src={imgSrc} alt="apartment" width="400" />
