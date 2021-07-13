@@ -10,6 +10,7 @@ import threeBedAptImg from "./components/images/3-bed-apt.jpg";
 import threeBedPHImg from "./components/images/3-bed-ph.jpg";
 import threeBedPoolImg from "./components/images/3-bed-pool.jpg";
 import studioAptImg from "./components/images/studio.jpg";
+import "./components/styles/App.css";
 
 function App() {
   const [selectedApartments, setSelectedApartments] = useState([]);
@@ -69,9 +70,14 @@ function App() {
   });
   return (
     <div className="App">
-      <h1>House Inventory</h1>
-      {isLoading ? <p>Loading Houses...</p> : <ul>{renderedApartmentList}</ul>}
-      <Filter filterApartments={filterApartments} />
+      {isLoading ? (
+        <p>Loading Houses...</p>
+      ) : (
+        <div className="content-container">
+          <ul className="list-container">{renderedApartmentList}</ul>
+          <Filter filterApartments={filterApartments} />
+        </div>
+      )}
     </div>
   );
 }

@@ -1,11 +1,12 @@
 import React from "react";
+import "./styles/Filter.css";
 
 function Filter({ filterApartments }) {
   return (
-    <aside>
-      <h2>Filter</h2>
-      <h3>Status</h3>
-      <form action="">
+    <aside className="filter-container">
+      <h2 className="filter-header">Filter</h2>
+      <h3 className="status-header">Status</h3>
+      <form className="button-container">
         <input
           defaultChecked
           onClick={filterApartments}
