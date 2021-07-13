@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/house-site/static/css/main.aada65b5.chunk.css",
+    "main.js": "/house-site/static/js/main.d9ff2b7f.chunk.js",
+    "main.js.map": "/house-site/static/js/main.d9ff2b7f.chunk.js.map",
+    "runtime-main.js": "/house-site/static/js/runtime-main.57e46e88.js",
+    "runtime-main.js.map": "/house-site/static/js/runtime-main.57e46e88.js.map",
+    "static/js/2.ca0577fe.chunk.js": "/house-site/static/js/2.ca0577fe.chunk.js",
+    "static/js/2.ca0577fe.chunk.js.map": "/house-site/static/js/2.ca0577fe.chunk.js.map",
+    "index.html": "/house-site/index.html",
+    "static/css/main.aada65b5.chunk.css.map": "/house-site/static/css/main.aada65b5.chunk.css.map",
+    "static/js/2.ca0577fe.chunk.js.LICENSE.txt": "/house-site/static/js/2.ca0577fe.chunk.js.LICENSE.txt",
+    "static/media/1-bed-apt.bac800b4.jpg": "/house-site/static/media/1-bed-apt.bac800b4.jpg",
+    "static/media/1-bed-smart.4e690db4.jpg": "/house-site/static/media/1-bed-smart.4e690db4.jpg",
+    "static/media/2-bed-apt.625095fa.jpg": "/house-site/static/media/2-bed-apt.625095fa.jpg",
+    "static/media/2-bed-ph.6a8e00bc.jpg": "/house-site/static/media/2-bed-ph.6a8e00bc.jpg",
+    "static/media/2-bed-smart.a3f54ce2.jpg": "/house-site/static/media/2-bed-smart.a3f54ce2.jpg",
+    "static/media/3-bed-apt.aa80b9cd.jpg": "/house-site/static/media/3-bed-apt.aa80b9cd.jpg",
+    "static/media/3-bed-ph.44616e2f.jpg": "/house-site/static/media/3-bed-ph.44616e2f.jpg",
+    "static/media/3-bed-pool.a73b721e.jpg": "/house-site/static/media/3-bed-pool.a73b721e.jpg",
+    "static/media/studio.fb6ed5bf.jpg": "/house-site/static/media/studio.fb6ed5bf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57e46e88.js",
+    "static/js/2.ca0577fe.chunk.js",
+    "static/css/main.aada65b5.chunk.css",
+    "static/js/main.d9ff2b7f.chunk.js"
+  ]
+}
